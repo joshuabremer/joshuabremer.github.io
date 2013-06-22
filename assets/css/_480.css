@@ -1,0 +1,10 @@
+html {
+  background: black;
+}
+body {
+  background: white;
+  padding-top: 30px;
+}
+.image-grid li {
+  width: 33.333333%;
+}
