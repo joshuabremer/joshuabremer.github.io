@@ -1,7 +1,13 @@
 ---
+published: true
 layout: home
-description: "Home page for Joshua Bremer"
-tags: [Jekyll, theme, responsive, blog, template]
+description: Home page for Joshua Bremer
+tags: 
+  - Jekyll
+  - theme
+  - responsive
+  - blog
+  - template
 ---
 
 ##Web developer
@@ -13,5 +19,4 @@ Front-End Specialist with Back-End Expertise.
 *	SASS
 *	Git
 *	jQuery
-*	Backbone.js
-
+*	Backbone.js 
