@@ -10,13 +10,11 @@ tags:
   - template
 ---
 
-##Web developer
+## Web developer
 
 
 Front-End Specialist with Back-End Expertise.
 
-*	Ruby (Rails)
-*	SASS
-*	Git
-*	jQuery
-*	Backbone.js 
+*	Ember.js
+* Ruby on Rails
+* Docker & Kubernetes
