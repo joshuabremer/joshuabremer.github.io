@@ -2,7 +2,7 @@ title:            Joshua Bremer
 tagline:          Jekyll Theme
 description:      Home Page for Joshua Bremer Web Developer
 #Comment out url when working locally to resolve base urls correctly 
-url:              http://joshuabremer.github.io/
+url:              https://joshuabremer.com
 
 # Owner/author information
 owner:
